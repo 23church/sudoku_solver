@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sudoku", "Sudoku\Sudoku.vcxproj", "{DD868F91-9D46-4A21-B728-C77BF07B0F70}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sudoku2", "Sudoku2\Sudoku2.vcxproj", "{B1FEBFDC-3E70-4419-8C21-92EDA7E91422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD868F91-9D46-4A21-B728-C77BF07B0F70}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DD868F91-9D46-4A21-B728-C77BF07B0F70}.Debug|Win32.Build.0 = Debug|Win32
+		{DD868F91-9D46-4A21-B728-C77BF07B0F70}.Release|Win32.ActiveCfg = Release|Win32
+		{DD868F91-9D46-4A21-B728-C77BF07B0F70}.Release|Win32.Build.0 = Release|Win32
+		{B1FEBFDC-3E70-4419-8C21-92EDA7E91422}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B1FEBFDC-3E70-4419-8C21-92EDA7E91422}.Debug|Win32.Build.0 = Debug|Win32
+		{B1FEBFDC-3E70-4419-8C21-92EDA7E91422}.Release|Win32.ActiveCfg = Release|Win32
+		{B1FEBFDC-3E70-4419-8C21-92EDA7E91422}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
